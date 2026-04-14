@@ -1,0 +1,3 @@
+[console_scripts]
+first_node = idk_pkg.scripts.first_node:main
+time_printer = idk_pkg.scripts.time_printer:main

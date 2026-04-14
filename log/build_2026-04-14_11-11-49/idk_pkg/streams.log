@@ -1,0 +1,25 @@
+[0.387s] Invoking command in '/home/igsp-01/ros2_wSSSSSSSSSSs/src/idk_pkg': PYTHONPATH=/home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/idk_pkg build --build-base /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/build install --record /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/install.log --single-version-externally-managed install_data
+[0.517s] running egg_info
+[0.525s] writing ../../build/idk_pkg/idk_pkg.egg-info/PKG-INFO
+[0.525s] writing dependency_links to ../../build/idk_pkg/idk_pkg.egg-info/dependency_links.txt
+[0.525s] writing entry points to ../../build/idk_pkg/idk_pkg.egg-info/entry_points.txt
+[0.525s] writing requirements to ../../build/idk_pkg/idk_pkg.egg-info/requires.txt
+[0.525s] writing top-level names to ../../build/idk_pkg/idk_pkg.egg-info/top_level.txt
+[0.541s] reading manifest file '../../build/idk_pkg/idk_pkg.egg-info/SOURCES.txt'
+[0.542s] writing manifest file '../../build/idk_pkg/idk_pkg.egg-info/SOURCES.txt'
+[0.542s] running build
+[0.542s] running build_py
+[0.542s] copying idk_pkg/scripts/time_printer.py -> /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/build/lib/idk_pkg/scripts
+[0.542s] running install
+[0.546s] running install_lib
+[0.554s] copying /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/build/lib/idk_pkg/scripts/time_printer.py -> /home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages/idk_pkg/scripts
+[0.554s] byte-compiling /home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages/idk_pkg/scripts/time_printer.py to time_printer.cpython-312.pyc
+[0.555s] running install_data
+[0.555s] running install_egg_info
+[0.563s] removing '/home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages/idk_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[0.564s] Copying ../../build/idk_pkg/idk_pkg.egg-info to /home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages/idk_pkg-0.0.0-py3.12.egg-info
+[0.564s] running install_scripts
+[0.625s] Installing first_node script to /home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/idk_pkg
+[0.626s] Installing time_printer script to /home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/idk_pkg
+[0.626s] writing list of installed files to '/home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/install.log'
+[0.641s] Invoked command in '/home/igsp-01/ros2_wSSSSSSSSSSs/src/idk_pkg' returned '0': PYTHONPATH=/home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/idk_pkg build --build-base /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/build install --record /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/install.log --single-version-externally-managed install_data

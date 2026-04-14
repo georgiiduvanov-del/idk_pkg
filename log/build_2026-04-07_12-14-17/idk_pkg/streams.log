@@ -1,0 +1,21 @@
+[0.400s] Invoking command in '/home/igsp-01/ros2_wSSSSSSSSSSs/src/idk_pkg': PYTHONPATH=/home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/idk_pkg build --build-base /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/build install --record /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/install.log --single-version-externally-managed install_data
+[0.528s] running egg_info
+[0.536s] writing ../../build/idk_pkg/idk_pkg.egg-info/PKG-INFO
+[0.536s] writing dependency_links to ../../build/idk_pkg/idk_pkg.egg-info/dependency_links.txt
+[0.537s] writing entry points to ../../build/idk_pkg/idk_pkg.egg-info/entry_points.txt
+[0.537s] writing requirements to ../../build/idk_pkg/idk_pkg.egg-info/requires.txt
+[0.537s] writing top-level names to ../../build/idk_pkg/idk_pkg.egg-info/top_level.txt
+[0.553s] reading manifest file '../../build/idk_pkg/idk_pkg.egg-info/SOURCES.txt'
+[0.553s] writing manifest file '../../build/idk_pkg/idk_pkg.egg-info/SOURCES.txt'
+[0.553s] running build
+[0.553s] running build_py
+[0.553s] running install
+[0.557s] running install_lib
+[0.565s] running install_data
+[0.565s] running install_egg_info
+[0.574s] removing '/home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages/idk_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[0.574s] Copying ../../build/idk_pkg/idk_pkg.egg-info to /home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages/idk_pkg-0.0.0-py3.12.egg-info
+[0.575s] running install_scripts
+[0.637s] Installing first_node script to /home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/idk_pkg
+[0.637s] writing list of installed files to '/home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/install.log'
+[0.653s] Invoked command in '/home/igsp-01/ros2_wSSSSSSSSSSs/src/idk_pkg' returned '0': PYTHONPATH=/home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/igsp-01/ros2_wSSSSSSSSSSs/install/idk_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/idk_pkg build --build-base /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/build install --record /home/igsp-01/ros2_wSSSSSSSSSSs/build/idk_pkg/install.log --single-version-externally-managed install_data
